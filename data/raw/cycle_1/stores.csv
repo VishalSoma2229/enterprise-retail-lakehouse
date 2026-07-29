@@ -1,0 +1,26 @@
+store_id,store_name,city,state,store_type,opened_date,is_active
+S001,Hyderabad Retail Store 1,Hyderabad,Telangana,High Street,2017-04-02,true
+S002,Mumbai Retail Store 2,Mumbai,Maharashtra,Outlet,2017-07-02,true
+S003,Bengaluru Retail Store 3,Bengaluru,Karnataka,Mall,2017-10-01,true
+S004,Chennai Retail Store 4,Chennai,Tamil Nadu,High Street,2017-12-31,true
+S005,Pune Retail Store 5,Pune,Maharashtra,Outlet,2018-04-01,true
+S006,Delhi Retail Store 6,Delhi,Delhi,Mall,2018-07-01,true
+S007,Kolkata Retail Store 7,Kolkata,West Bengal,High Street,2018-09-30,true
+S008,Ahmedabad Retail Store 8,Ahmedabad,Gujarat,Outlet,2018-12-30,true
+S009,Jaipur Retail Store 9,Jaipur,Rajasthan,Mall,2019-03-31,true
+S010,Kochi Retail Store 10,Kochi,Kerala,High Street,2019-06-30,true
+S011,Hyderabad Retail Store 11,Hyderabad,Telangana,Outlet,2019-09-29,true
+S012,Mumbai Retail Store 12,Mumbai,Maharashtra,Mall,2019-12-29,true
+S013,Bengaluru Retail Store 13,Bengaluru,Karnataka,High Street,2020-03-29,true
+S014,Chennai Retail Store 14,Chennai,Tamil Nadu,Outlet,2020-06-28,true
+S015,Pune Retail Store 15,Pune,Maharashtra,Mall,2020-09-27,true
+S016,Delhi Retail Store 16,Delhi,Delhi,High Street,2020-12-27,true
+S017,Kolkata Retail Store 17,Kolkata,West Bengal,Outlet,2021-03-28,true
+S018,Ahmedabad Retail Store 18,Ahmedabad,Gujarat,Mall,2021-06-27,true
+S019,Jaipur Retail Store 19,Jaipur,Rajasthan,High Street,2021-09-26,true
+S020,Kochi Retail Store 20,Kochi,Kerala,Outlet,2021-12-26,true
+S021,Hyderabad Retail Store 21,Hyderabad,Telangana,Mall,2022-03-27,true
+S022,Mumbai Retail Store 22,Mumbai,Maharashtra,High Street,2022-06-26,true
+S023,Bengaluru Retail Store 23,Bengaluru,Karnataka,Outlet,2022-09-25,true
+S024,Chennai Retail Store 24,Chennai,Tamil Nadu,Mall,2022-12-25,true
+S025,Pune Retail Store 25,Pune,Maharashtra,High Street,2023-03-26,true
