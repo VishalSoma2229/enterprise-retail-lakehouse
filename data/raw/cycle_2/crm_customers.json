@@ -1,0 +1,3502 @@
+[
+  {
+    "customer_id": "C000101",
+    "preferred_channel": "FAX",
+    "marketing_opt_in": false,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000102",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000103",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000104",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000105",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000106",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000107",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000108",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000109",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000110",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000111",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000112",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000113",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000114",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000115",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000116",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000117",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000118",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000119",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000120",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000121",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000122",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000123",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000124",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000125",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000126",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000127",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000128",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000129",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000130",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000131",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000132",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000133",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000134",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000135",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000136",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000137",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000138",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000139",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000140",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000141",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000142",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000143",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000144",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000145",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000146",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000147",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000148",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000149",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000150",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000151",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000152",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000153",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000154",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000155",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000156",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000157",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000158",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000159",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000160",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000161",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000162",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000163",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000164",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000165",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000166",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000167",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000168",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000169",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000170",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000171",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000172",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000173",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000174",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000175",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000176",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000177",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000178",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000179",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000180",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000181",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000182",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000183",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000184",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000185",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000186",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000187",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000188",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000189",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000190",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000191",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000192",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000193",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000194",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000195",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000196",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000197",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000198",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000199",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000200",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000201",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000202",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000203",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000204",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000205",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000206",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000207",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000208",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000209",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000210",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000211",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000212",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000213",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000214",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000215",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000216",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000217",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000218",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000219",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000220",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000221",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000222",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000223",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000224",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000225",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000226",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000227",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000228",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000229",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000230",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000231",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000232",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000233",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000234",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000235",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000236",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000237",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000238",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000239",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000240",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000241",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000242",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000243",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000244",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000245",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000246",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000247",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000248",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000249",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000250",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000251",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000252",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000253",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000254",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000255",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000256",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000257",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000258",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000259",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000260",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000261",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000262",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000263",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000264",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000265",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000266",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000267",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000268",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000269",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000270",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000271",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000272",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000273",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000274",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000275",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000276",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000277",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000278",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000279",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000280",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000281",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000282",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000283",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000284",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000285",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000286",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000287",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000288",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000289",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000290",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000291",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000292",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000293",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000294",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000295",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000296",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000297",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000298",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000299",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000300",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000301",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000302",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000303",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000304",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000305",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000306",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000307",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000308",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000309",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000310",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000311",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000312",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000313",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000314",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000315",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000316",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000317",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000318",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000319",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000320",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000321",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000322",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000323",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000324",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000325",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000326",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000327",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000328",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000329",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000330",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000331",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000332",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000333",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000334",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000335",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000336",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000337",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000338",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000339",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000340",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000341",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000342",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000343",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000344",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000345",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000346",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000347",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000348",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000349",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C000350",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005001",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005002",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005003",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005004",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005005",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005006",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005007",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005008",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005009",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005010",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005011",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005012",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005013",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005014",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005015",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005016",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005017",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005018",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005019",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005020",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005021",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005022",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005023",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005024",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005025",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005026",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005027",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005028",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005029",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005030",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005031",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005032",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005033",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005034",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005035",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005036",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005037",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005038",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005039",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005040",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005041",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005042",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005043",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005044",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005045",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005046",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005047",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005048",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005049",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005050",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005051",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005052",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005053",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005054",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005055",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005056",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005057",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005058",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005059",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005060",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005061",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005062",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005063",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005064",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005065",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005066",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005067",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005068",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005069",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005070",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005071",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005072",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005073",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005074",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005075",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005076",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005077",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005078",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005079",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005080",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005081",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005082",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005083",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005084",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005085",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005086",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005087",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005088",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005089",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005090",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005091",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005092",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005093",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005094",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005095",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005096",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005097",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005098",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005099",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005100",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005101",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005102",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005103",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005104",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005105",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005106",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005107",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005108",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005109",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005110",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005111",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005112",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005113",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005114",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005115",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005116",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005117",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005118",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005119",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005120",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005121",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005122",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005123",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005124",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005125",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005126",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005127",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005128",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005129",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005130",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005131",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005132",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005133",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005134",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005135",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005136",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005137",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005138",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005139",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005140",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005141",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005142",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005143",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005144",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005145",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005146",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005147",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005148",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005149",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005150",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005151",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005152",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005153",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005154",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005155",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005156",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005157",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005158",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005159",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005160",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005161",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005162",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005163",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005164",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005165",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005166",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005167",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005168",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005169",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005170",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005171",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005172",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005173",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005174",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005175",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005176",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005177",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005178",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005179",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005180",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005181",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005182",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005183",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005184",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005185",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005186",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005187",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005188",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005189",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005190",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005191",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005192",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005193",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005194",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005195",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005196",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005197",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005198",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005199",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005200",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005201",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005202",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005203",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005204",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005205",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005206",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005207",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005208",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005209",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005210",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005211",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005212",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005213",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005214",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005215",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005216",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005217",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005218",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005219",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005220",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005221",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005222",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005223",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005224",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005225",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005226",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005227",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005228",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005229",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005230",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005231",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005232",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005233",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005234",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005235",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005236",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005237",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005238",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005239",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005240",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005241",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005242",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005243",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005244",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005245",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005246",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": true,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005247",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005248",
+    "preferred_channel": "APP",
+    "marketing_opt_in": true,
+    "customer_segment": "PREMIUM",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005249",
+    "preferred_channel": "EMAIL",
+    "marketing_opt_in": false,
+    "customer_segment": "VALUE",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  },
+  {
+    "customer_id": "C005250",
+    "preferred_channel": "SMS",
+    "marketing_opt_in": true,
+    "customer_segment": "REGULAR",
+    "crm_updated_at": "2026-07-08T09:00:00"
+  }
+]
