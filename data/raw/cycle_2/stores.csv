@@ -1,0 +1,4 @@
+store_id,store_name,city,state,store_type,opened_date,is_active
+S001,Hyderabad Retail Store 1,Hyderabad,Telangana,Flagship,2017-04-02,true
+S002,Mumbai Retail Store 2,Mumbai,Maharashtra,Flagship,2017-07-02,true
+S003,Bengaluru Retail Store 3,Bengaluru,Karnataka,Flagship,2017-10-01,true
